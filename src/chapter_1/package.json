@@ -1,0 +1,16 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@repos-ssh.21-school.ru:2289/students/FRONT_01.ID_794487/meadowse_test_frontent_osnova/FRONT_01-0.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
